@@ -1,5 +1,5 @@
 # Lab 12
 
-## VG-Stats
+## Bike-Stats
 
 ## Michael Hendricks
